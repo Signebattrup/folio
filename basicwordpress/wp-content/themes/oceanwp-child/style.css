@@ -1,14 +1,4 @@
-#site-header.transparent-header {
-    position: fixed !important;
-    background-color: white !important;
-    height: 10% !important;
-    z-index: 9999;
-}
-
-.wpforms-form .wpforms-page-button {
-
-    border-radius: 10% 10% 10% 10% !important;
-}/*
+/*
  Theme Name:   oceanwp Child
  Theme URI:    http://example.com/twenty-fifteen-child/
  Description:  This is a childtheme based on oceanwp
@@ -22,3 +12,14 @@
  Text Domain:  oceanwpchild
 */
  
+#site-header.transparent-header {
+    position: fixed !important;
+    background-color: white !important;
+    height: 10% !important;
+    z-index: 9999;
+}
+
+.wpforms-form .wpforms-page-button {
+
+    border-radius: 10% 10% 10% 10% !important;
+}
