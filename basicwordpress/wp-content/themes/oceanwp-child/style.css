@@ -19,7 +19,7 @@
     z-index: 9999;
 }
 
-.wpforms-form .wpforms-page-button {
+input[type="button"], input[type="reset"], input[type="submit"], button[type="submit"], .button, body div.wpforms-container-full .wpforms-form input[type=submit], body div.wpforms-container-full .wpforms-form button[type=submit], body div.wpforms-container-full .wpforms-form .wpforms-page-button {
 
-    border-radius: 10% 10% 10% 10% !important;
+    border-radius: 10% !important;
 }
